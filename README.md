@@ -5,7 +5,7 @@ Mobile Version VI Editor
 The vi editor is created when the input situation is very difficult.
 Now for the desktop pc or laptop pc, the input situation is much better.
 
-But for the mobile device, the input situation is still difficult:
+But for the mobile device, the input situation is still difficult, even worse:
 
 * Mobile device is very small, so the physical/virtual keyboard is small too.
 * Many keys miss because of the small size, especially the direction keys.
