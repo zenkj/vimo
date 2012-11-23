@@ -10,6 +10,7 @@ But for the mobile device, the input situation is still difficult, even worse:
 * Mobile device is very small, so the physical/virtual keyboard is small too.
 * Many keys miss because of the small size, especially the direction keys.
 * Punctuations are difficult to input.
+* In most situation, only two or one thumbs can be used to input.
 
 I want to edit code at any time, so vi's compact key usage is suitable.
 But the traditional vi is not suitable for mobile device.
