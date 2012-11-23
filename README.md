@@ -11,6 +11,8 @@ But for the mobile device, the input situation is still difficult, even worse:
 * Many keys miss because of the small size, especially the direction keys.
 * Punctuations are difficult to input.
 * In most situation, only two or one thumbs can be used to input.
+* For virtual keyboard, fingers can't touch keyboard when no input.
+* Escape key misses usually.
 
 I want to edit code at any time, so vi's compact key usage is suitable.
 But the traditional vi is not suitable for mobile device.
