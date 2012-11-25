@@ -1,5 +1,5 @@
 #vimo
-Mobile Version VI Editor
+Mobile Version VIM Editor
 
 ##Motivation
 The vi editor is created when the input situation is very difficult.
@@ -13,6 +13,7 @@ But for the mobile device, the input situation is still difficult, even worse:
 * In most situation, only two or one thumbs can be used to input.
 * For virtual keyboard, fingers can't touch keyboard when no input.
 * Escape key misses usually.
+* It's difficult to touch the key rightly
 
 I want to edit code at any time, so vi's compact key usage is suitable.
 But the traditional vi is not suitable for mobile device.
